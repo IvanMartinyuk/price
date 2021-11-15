@@ -1,0 +1,15 @@
+D:\s\DevChallenge\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\s\DevChallenge\BLL\bin\Debug\net5.0\BLL.dll
+D:\s\DevChallenge\BLL\bin\Debug\net5.0\ref\BLL.dll
+D:\s\DevChallenge\BLL\bin\Debug\net5.0\BLL.pdb
+D:\s\DevChallenge\BLL\bin\Debug\net5.0\DAL.dll
+D:\s\DevChallenge\BLL\bin\Debug\net5.0\DAL.pdb
+D:\s\DevChallenge\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\s\DevChallenge\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\s\DevChallenge\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\s\DevChallenge\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\s\DevChallenge\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\s\DevChallenge\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+D:\s\DevChallenge\BLL\obj\Debug\net5.0\BLL.dll
+D:\s\DevChallenge\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\s\DevChallenge\BLL\obj\Debug\net5.0\BLL.pdb
