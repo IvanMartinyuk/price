@@ -721,11 +721,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\s\\DevChallenge\\BLL\\BLL.csproj",
+      "projectUniqueName": "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "D:\\s\\DevChallenge\\BLL\\BLL.csproj",
+      "projectPath": "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\BLL\\BLL.csproj",
       "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-      "outputPath": "D:\\s\\DevChallenge\\BLL\\obj\\",
+      "outputPath": "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -742,8 +742,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\s\\DevChallenge\\DAL\\DAL.csproj": {
-              "projectPath": "D:\\s\\DevChallenge\\DAL\\DAL.csproj"
+            "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\DAL\\DAL.csproj"
             }
           }
         }

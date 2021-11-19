@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QCKnAQXQ79UsFQyTydysWLN1/JB49/UeBbBZBVy6bXOd/ffKkejxWyYN71oaG5w/hGTkhz2oiHpsJjY+pctiHA==",
+  "dgSpecHash": "iIrMyBAtVHv3WsYWM6xjt3ZLZ/aYsh4lF92oTEunknCs9IoF3GQwLjQN88332f2wOOLKTpoXK7r4K6U1M4s3vA==",
   "success": true,
-  "projectFilePath": "D:\\s\\DevChallenge\\SC.DevChallenge.Api\\SC.DevChallenge.Api.csproj",
+  "projectFilePath": "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\SC.DevChallenge.Api\\SC.DevChallenge.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ivan\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Ivan\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",
