@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6l2zLpoNy+W8cT5UNBInDiHFeWL963Gh1CSbSAu42JFigj9MIHQQPyp82wGx4Estq2ng5g5YXYCnMjfPZiSIyQ==",
+  "dgSpecHash": "M9joDRov2Y7wRs17RVJS0CnjCVmZmRBYwXsFjllwHyus+yzkjsntKdidOr4LVAVo5G4tSkfNxtfvj3YBt4JNCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\BLL\\BLL.csproj",
+  "projectFilePath": "D:\\s\\price\\BLL\\BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ivan\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

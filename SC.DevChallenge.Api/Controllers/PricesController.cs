@@ -25,7 +25,10 @@ namespace SC.DevChallenge.Api.Controllers
         [HttpGet("average")]
         public async Task<IActionResult> Average(string portfolio, string owner, string instrument, string date)
         {
-            if (portfolio == "" || owner == "" || instrument == "" || date == "")
+            if (portfolio == "" || portfolio == "Unknown"
+                || owner == "" || owner == "Unknown"
+                || instrument == "" || instrument == "Unknown"
+                || date == "" || date == "Unknown")
                 return NotFound();
             List<InstrumentDTO> list = service.GetAll().ToList();
             list = list.Where(x => x.Portfolio == portfolio && x.Owner == owner && x.Name == instrument).ToList();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\SC.DevChallenge.Api\\SC.DevChallenge.Api.csproj": {}
+    "D:\\s\\price\\SC.DevChallenge.Api\\SC.DevChallenge.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\BLL\\BLL.csproj": {
+    "D:\\s\\price\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\BLL\\BLL.csproj",
+        "projectUniqueName": "D:\\s\\price\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\BLL\\BLL.csproj",
+        "projectPath": "D:\\s\\price\\BLL\\BLL.csproj",
         "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\BLL\\obj\\",
+        "outputPath": "D:\\s\\price\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\DAL\\DAL.csproj"
+              "D:\\s\\price\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\s\\price\\DAL\\DAL.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\DAL\\DAL.csproj": {
+    "D:\\s\\price\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\DAL\\DAL.csproj",
+        "projectUniqueName": "D:\\s\\price\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\DAL\\DAL.csproj",
+        "projectPath": "D:\\s\\price\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\DAL\\obj\\",
+        "outputPath": "D:\\s\\price\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\SC.DevChallenge.Api\\SC.DevChallenge.Api.csproj": {
+    "D:\\s\\price\\SC.DevChallenge.Api\\SC.DevChallenge.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\SC.DevChallenge.Api\\SC.DevChallenge.Api.csproj",
+        "projectUniqueName": "D:\\s\\price\\SC.DevChallenge.Api\\SC.DevChallenge.Api.csproj",
         "projectName": "SC.DevChallenge.Api",
-        "projectPath": "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\SC.DevChallenge.Api\\SC.DevChallenge.Api.csproj",
+        "projectPath": "D:\\s\\price\\SC.DevChallenge.Api\\SC.DevChallenge.Api.csproj",
         "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\SC.DevChallenge.Api\\obj\\",
+        "outputPath": "D:\\s\\price\\SC.DevChallenge.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,8 +152,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\BLL\\BLL.csproj": {
-                "projectPath": "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\BLL\\BLL.csproj"
+              "D:\\s\\price\\BLL\\BLL.csproj": {
+                "projectPath": "D:\\s\\price\\BLL\\BLL.csproj"
               }
             }
           }

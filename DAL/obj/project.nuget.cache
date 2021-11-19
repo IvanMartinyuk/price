@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BShXbaY/UnSpk8tiELcOyIEnKMUrKG9a/5VDkFRIMsiKD6f0s5i9wjLlnWHu7mRksM+0+5FKqUNz7Dg2s8RCfQ==",
+  "dgSpecHash": "W0LxDrIgnhT/CRQBEHW5qmvMw6bHz7zrebZdTvKr4NtqWwaO5uoazweHLaACruklo7pKGwlQXUiRJLfrkmPQYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\DAL\\DAL.csproj",
+  "projectFilePath": "D:\\s\\price\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0\\microsoft.entityframeworkcore.5.0.0.nupkg.sha512",
     "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.0\\microsoft.entityframeworkcore.abstractions.5.0.0.nupkg.sha512",

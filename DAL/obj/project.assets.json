@@ -532,11 +532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\DAL\\DAL.csproj",
+      "projectUniqueName": "D:\\s\\price\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\DAL\\DAL.csproj",
+      "projectPath": "D:\\s\\price\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ivan\\Downloads\\price-price\\price-price\\DAL\\obj\\",
+      "outputPath": "D:\\s\\price\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
