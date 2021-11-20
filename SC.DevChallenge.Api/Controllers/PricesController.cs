@@ -81,20 +81,18 @@ namespace SC.DevChallenge.Api.Controllers
             foreach(var list in groups)
             {
                 List<double> sum = new List<double>();
-                DateTime date = new DateTime();
                 foreach (var slot in list)
                 {
                     var l = GetData(portfolio, slot.Start.DateTime);
                     if (l.Count() > 0)
                     {
                         var sorted = l.OrderBy(x => x.Price).ToList();
-                        date = sorted[0].Date;
                         var t = GetBenchmark(sorted.Select(x => x.Price).ToList());
                         if(t.Count() > 0)
                             sum.Add(t.Average());
                     }
                 }
-                response.Add(new ReturnInfo() { Price = sum.Average(), Date = Convert.ToDateTime(date) });
+                response.Add(new ReturnInfo() { Price = sum.Average(), Date = Convert.ToDateTime(list[0].Start.DateTime) });
             }
             return Json(response);
         }
